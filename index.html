@@ -36,8 +36,12 @@
     color: #000 !important;
   }
 
+        .navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
   /* Material icon circle */
-  .navbar-toggler .nav-icon {
+  .navbar-toggler .material-symbols-outlined {
     font-size: 28px;
     border: 1px solid #000;
     border-radius: 50%;
@@ -80,14 +84,13 @@
   .footer-link:hover {
     color: #fff;
   }
-
-
+        
         .material-symbols-outlined {
   font-variation-settings:
-  'FILL' 0,
+  'FILL' #000000,
   'wght' 400,
   'GRAD' 0,
-  'opsz' 24
+  'opsz' 48
 }
     </style>
     
@@ -100,7 +103,7 @@
 
     <!-- Left: Logo + Name -->
     <a class="navbar-brand d-flex align-items-center" href="#">
-      <img src="touchvent-logo.png" alt="Logo" class="rounded-circle me-2" style="width:40px; height:40px;">
+      <img src="res/touchvent-logo.png" alt="Logo" class="rounded-circle me-2" style="width:40px; height:40px;">
       <span class="fw-bold fs-5">Touchvent</span>
     </a>
 
