@@ -1,4 +1,5 @@
 google.com, pub-7031242974947980, DIRECT, f08c47fec0942fa0
+vungle.com, 69cea31f0e0891e59aa187cd, DIRECT, c107d686becd2d77
 smaato.com, 1100049693, RESELLER, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
